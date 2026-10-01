@@ -1,0 +1,6 @@
+Metric,Test Set
+Accuracy,0.725
+Precision,0.7368421052631579
+Recall,0.7
+F1-score,0.717948717948718
+ROC-AUC,0.68
